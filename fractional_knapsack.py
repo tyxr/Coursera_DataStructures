@@ -16,7 +16,7 @@ def get_optimal_value(capacity, weights, values):
 
         else:
             value = value + (capacity-tolweigh)*we_val[i][1]/we_val[i][0]
-            return value
+            break
         i=i+1
     return value
     
