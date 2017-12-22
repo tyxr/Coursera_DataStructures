@@ -1,1 +1,1 @@
-# Coursera_DataStructures
+binary_search.py用了binary_search，说我速度太慢。majority_element没有用任何算法，结果嘻嘻，还过了。
