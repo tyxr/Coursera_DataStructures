@@ -1,7 +1,7 @@
 # python3
 import sys
 
-n, m = map(int, sys.stdin.readline().split())
+n, m = map(int, sys.stdin.readline().split()) #n个列表 m个指令
 lines = list(map(int, sys.stdin.readline().split()))
 rank = [1] * n
 parent = list(range(0, n))
